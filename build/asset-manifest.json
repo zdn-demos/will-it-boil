@@ -1,13 +1,13 @@
 {
-  "main.css": "./static/css/main.ba5d6acf.chunk.css",
-  "main.js": "./static/js/main.32392a9e.chunk.js",
-  "main.js.map": "./static/js/main.32392a9e.chunk.js.map",
-  "static/js/1.1ca75904.chunk.js": "./static/js/1.1ca75904.chunk.js",
-  "static/js/1.1ca75904.chunk.js.map": "./static/js/1.1ca75904.chunk.js.map",
-  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
-  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
-  "static/css/main.ba5d6acf.chunk.css.map": "./static/css/main.ba5d6acf.chunk.css.map",
-  "index.html": "./index.html",
-  "precache-manifest.43231f0a0e7a64f68d4139d4b4c86d85.js": "./precache-manifest.43231f0a0e7a64f68d4139d4b4c86d85.js",
-  "service-worker.js": "./service-worker.js"
+  "main.css": "/will-it-boil/static/css/main.ba5d6acf.chunk.css",
+  "main.js": "/will-it-boil/static/js/main.32392a9e.chunk.js",
+  "main.js.map": "/will-it-boil/static/js/main.32392a9e.chunk.js.map",
+  "static/js/1.1ca75904.chunk.js": "/will-it-boil/static/js/1.1ca75904.chunk.js",
+  "static/js/1.1ca75904.chunk.js.map": "/will-it-boil/static/js/1.1ca75904.chunk.js.map",
+  "runtime~main.js": "/will-it-boil/static/js/runtime~main.1c84162f.js",
+  "runtime~main.js.map": "/will-it-boil/static/js/runtime~main.1c84162f.js.map",
+  "static/css/main.ba5d6acf.chunk.css.map": "/will-it-boil/static/css/main.ba5d6acf.chunk.css.map",
+  "index.html": "/will-it-boil/index.html",
+  "precache-manifest.67e0a333931b45ecce8a25ac5b4c5d37.js": "/will-it-boil/precache-manifest.67e0a333931b45ecce8a25ac5b4c5d37.js",
+  "service-worker.js": "/will-it-boil/service-worker.js"
 }
