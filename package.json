@@ -2,7 +2,7 @@
   "name": "react-w3wydu",
   "version": "0.0.0",
   "private": true,
-  "homepage": "http://zdn-demos.github.io/will-it-boil",
+  "homepage": "https://zdn-demos.github.io/will-it-boil",
   "dependencies": {
     "react": "16.5.0",
     "react-dom": "16.5.0"
